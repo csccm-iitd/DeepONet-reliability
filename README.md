@@ -7,6 +7,8 @@ Note: Results may vary slightly for different iterations of programs as random i
 
 Dataset Link: https://csciitd-my.sharepoint.com/:f:/g/personal/amz218308_iitd_ac_in/EvnTp1xMs4JLojvaOiPDIooBs_yPDZhc38kzf231-rCbMg?e=dv2uGF
 
+** If there is some ambiguity in the datasets/codes please comment in the repository.
+
 arXiv Citation details:
 @article{garg2022assessment,
   title={Assessment of DeepONet for reliability analysis of stochastic nonlinear dynamical systems},
