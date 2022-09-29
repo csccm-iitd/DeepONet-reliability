@@ -39,18 +39,6 @@ for dispnum = 1:5
 
     [~, sf, vf] = svd(f);
 
-    % sf = sf.^2;
-    % nf = 1;
-    % chkf = sum(diag(sf));
-    % rf = 0;
-    % while rf < 0.99
-    %     rf = sum(diag(sf(1:nf,1:nf)))/chkf;
-    %     nf = nf+1;
-    % end
-    % disp(nf);
-    %
-    % fr = f*vf(:,1:nf);
-
     fr = f*vf(:,1:nd);
 
     %%%%
