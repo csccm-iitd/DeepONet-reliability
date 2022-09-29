@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNNS_400S_wts_DO_76DOF_5"
+all_model_checkpoint_paths: "RNNS_400S_wts_DO_76DOF_5"
