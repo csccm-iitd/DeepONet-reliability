@@ -5,7 +5,7 @@ Assessment of DeepONet for time dependent reliability analysis of dynamical syst
 The GitHub repository contains sample DeepONet Python codes for the case studies carried out in the research paper titled 'Assessment of DeepONet for time dependent reliability analysis of dynamical systems subjected to stochastic loading'. Please go through the research paper to understand the implemented algorithm.
 Note: Results may vary slightly for different iterations of programs as random initializations of neural network is involved.
 
-Dataset Link: https://csciitd-my.sharepoint.com/:f:/g/personal/amz218308_iitd_ac_in/EvnTp1xMs4JLojvaOiPDIooBs_yPDZhc38kzf231-rCbMg?e=dv2uGF
+Dataset Link: https://drive.google.com/drive/folders/15GE1a_unGc4cuHixTTyMQJlbcC5dTHzb?usp=drive_link
 
 ** If there is some ambiguity in the datasets/codes please comment in the repository.
 
